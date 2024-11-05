@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tetra02</string>
+    <string name="my_input" />
+    <string name="input_method_name" />
+</resources>
